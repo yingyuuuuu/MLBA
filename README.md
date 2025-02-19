@@ -13,3 +13,7 @@ Looking for junior data analyst position in healthcare indstury
 # Experience
 
 - Academia Sinica
+
+# skills
+- financial statement analysis
+
