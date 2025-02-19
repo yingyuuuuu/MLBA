@@ -1,4 +1,4 @@
-# Machine Learning for Business Analytics
+# Yingyu
 
 # Purpose
 ![](cat.jpg)
