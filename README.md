@@ -8,11 +8,11 @@ Looking for junior data analyst position in healthcare indstury
 
 - Tunghai University
   - GBMA
-- NCHU
+- 
 
 # Experience
 
-- Academia Sinica
+- 
 
 # skills
 - financial statement analysis
