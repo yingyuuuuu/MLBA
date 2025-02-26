@@ -2,12 +2,12 @@
 
 # Purpose
 ![](cat.jpg)
-Looking for junior data analyst position in healthcare indstury
+
 
 # Education
 
 - Tunghai University
-  - GBMA
+  - finance
 - 
 
 # Experience
@@ -16,4 +16,6 @@ Looking for junior data analyst position in healthcare indstury
 
 # skills
 - financial statement analysis
+- perform various company valuation analysis
+- conduct deep industry, competitive and business model analysis
 
